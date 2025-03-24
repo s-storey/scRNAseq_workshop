@@ -31,7 +31,8 @@ Choose your appropriate operating system and follow the instructions on the wiza
 
 6. In RStudio, select 'File' -> 'New Project', select 'Existing Directory'. Ensure the path is to the scRNAseq_workshop-main folder you downloaded from github. Select 'Create Project'.
 
-7. 
+
+Great, you're good to go and ready for the workshop. 
 
 	
 
