@@ -1,6 +1,10 @@
 **From Cells to Insights: A Hands-On Guide to Single-Cell RNA-Seq Analysis**
-**March 24th 2025
-Sam Storey**
+
+
+
+**March 24th 2025**
+
+**Sam Storey**
 
 
 Modules will be presented in the following order:
