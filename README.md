@@ -25,7 +25,11 @@ Instructions:
 
 Choose your appropriate operating system and follow the instructions on the wizard.
 
-4. On this github page, got to CODE and select 'Download ZIP': <img width="1124" alt="image" src="https://github.com/user-attachments/assets/bc0120ce-ab53-4168-8fd8-d97df64e9c72" />
+4. On this github page, got to 'Code' and select 'Download ZIP': <img width="1124" alt="image" src="https://github.com/user-attachments/assets/bc0120ce-ab53-4168-8fd8-d97df64e9c72" />
+<img width="1123" alt="image" src="https://github.com/user-attachments/assets/020904b0-b8f3-426d-8dfa-f9a2e26a0173" />
+
+You can also clone the repository if you are familiar with Git.
+
 
 
 5. Right click scRNAseq_processing.R and select 'Open With' -> 'RStudio'
