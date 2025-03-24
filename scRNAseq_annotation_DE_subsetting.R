@@ -1,5 +1,5 @@
 ###############################################################
-# Title: Seurat Workflow with Annotation, DE, and Subsetting
+# Title: Annotation, subbsetting and differential expression module
 # Author: [Your Name]
 # Date: [Workshop Date]
 #

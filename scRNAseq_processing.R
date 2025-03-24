@@ -1,5 +1,5 @@
 ###############################################################
-# Title: Comprehensive Seurat Workflow Script
+# Title: Quality control and processing module
 # Author: [Your Name]
 # Date: [Workshop Date]
 # 

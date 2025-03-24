@@ -1,5 +1,5 @@
 ###############################################################
-# Title: Advanced Visualization & Analysis Techniques in scRNA-seq
+# Title: Data visualization module
 # Author: [Your Name]
 # Date: [Workshop Date]
 #
